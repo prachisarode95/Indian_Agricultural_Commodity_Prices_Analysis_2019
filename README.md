@@ -1,2 +1,14 @@
-# Indian_Agricultural_Commodity_Prices_Analysis_2019
-Analysis and linear regression modeling of daily agricultural commodity prices across India (July 24, 2019). The model predicts modal price from min &amp; max prices with very high accuracy.
+# Indian Agricultural Commodity Price Analysis (2019)
+
+**Objective**  
+To predict the modal (i.e., most common) price of agricultural commodities using 'min_price' and 'max_price' with Linear Regression.
+
+**Dataset**  
+- Source: commodity_data.gov.in (Kaggle)
+- Date: 24 July 2019  
+- ~9,200 market observations across India  
+- 199+ different commodities
+
+**Technologies used**
+- Python, pandas, scikit-learn, matplotlib/seaborn
+- Google Colab
